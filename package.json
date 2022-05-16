@@ -1,0 +1,14 @@
+{
+  "name": "smart-alert-website",
+  "version": "1.0.0",
+  "description": "Website for Smart Alert Startup",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Panagiotis Savvaidis",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
